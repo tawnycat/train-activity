@@ -1,5 +1,20 @@
 .jumbotron {
 
-	background-color: green;
+font-family: 'Ultra', serif;
+	background-color: #0178ae;
+	color: white;
+
+}
+
+.card-header {
+
+	background-color: #c31f20;
+	color: white;
+
+}
+
+.card {
+	
+	font-family: 'Arvo', serif;
 
 }
